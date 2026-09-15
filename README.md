@@ -8,7 +8,7 @@
 █████ █   █ █   █   █   █████ █   █ █████ █████
 </pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=900&color=00E436&center=true&vCenter=true&width=720&height=55&lines=%3E+HELLO+WORLD...;%3E+FULLSTACK+DEVELOPER;%3E+PYTHON+%2F+TYPESCRIPT+%2F+REACT+%2F+NODE;%3E+EX-ANALISTA+FUNCIONAL;%3E+PRESS+START+TO+CONTINUE" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=900&color=00E436&center=true&vCenter=true&width=720&height=55&lines=%3E+HELLO+WORLD...;%3E+FULLSTACK+DEVELOPER;%3E+PYTHON+%2F+TYPESCRIPT+%2F+REACT+%2F+NODE;%3E+PRESS+START+TO+CONTINUE" alt="typing" />
 
 <br/>
 
