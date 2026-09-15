@@ -178,6 +178,7 @@
 <div align="center">
 
 [![Portafolio](https://img.shields.io/badge/PORTAFOLIO-1D2B53?style=for-the-badge&logo=vercel&logoColor=FFEC27)](https://cvsantiloaiza.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1D2B53?style=for-the-badge&logo=linkedin&logoColor=29ADFF)](https://www.linkedin.com/in/santiago-loaiza-santamaria-99b85819a)
 [![GitHub](https://img.shields.io/badge/GITHUB-1D2B53?style=for-the-badge&logo=github&logoColor=00E436)](https://github.com/SantiLoaiza)
 
 <br/>
