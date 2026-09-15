@@ -1,5 +1,12 @@
 <div align="center">
 
+<img src="assets/sprites/invader1.png" height="36" alt="invader" />&nbsp;&nbsp;&nbsp;
+<img src="assets/sprites/mario.png" height="72" alt="mario" />&nbsp;&nbsp;&nbsp;
+<img src="assets/sprites/sonic.png" height="72" alt="sonic" />&nbsp;&nbsp;&nbsp;
+<img src="assets/sprites/hercules.png" height="72" alt="hercules" />&nbsp;&nbsp;&nbsp;
+<img src="assets/sprites/enderman.png" height="72" alt="enderman" />&nbsp;&nbsp;&nbsp;
+<img src="assets/sprites/invader2.png" height="36" alt="invader" />
+
 <pre>
 █████ █████ █   █ █████ █████ █████ █████ █████
 █     █   █ ██  █   █     █   █   █ █     █   █
@@ -7,6 +14,15 @@
     █ █   █ █  ██   █     █   █   █ █   █ █   █
 █████ █   █ █   █   █   █████ █   █ █████ █████
 </pre>
+
+<img src="assets/sprites/pc1.png" height="64" alt="pc" />&nbsp;&nbsp;&nbsp;
+<img src="assets/sprites/python.png" height="52" alt="python" />&nbsp;&nbsp;
+<img src="assets/sprites/js.png" height="52" alt="javascript" />&nbsp;&nbsp;
+<img src="assets/sprites/ts.png" height="52" alt="typescript" />&nbsp;&nbsp;
+<img src="assets/sprites/html.png" height="52" alt="html5" />&nbsp;&nbsp;&nbsp;
+<img src="assets/sprites/pc2.png" height="64" alt="pc" />
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=900&color=00E436&center=true&vCenter=true&width=720&height=55&lines=%3E+HELLO+WORLD...;%3E+FULLSTACK+DEVELOPER;%3E+PYTHON+%2F+TYPESCRIPT+%2F+REACT+%2F+NODE;%3E+PRESS+START+TO+CONTINUE" alt="typing" />
 
