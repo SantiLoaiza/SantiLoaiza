@@ -16,10 +16,10 @@
 </pre>
 
 <img src="assets/sprites/pc1.png" height="64" alt="pc" />&nbsp;&nbsp;&nbsp;
-<img src="assets/sprites/python.png" height="52" alt="python" />&nbsp;&nbsp;
-<img src="assets/sprites/js.png" height="52" alt="javascript" />&nbsp;&nbsp;
-<img src="assets/sprites/ts.png" height="52" alt="typescript" />&nbsp;&nbsp;
-<img src="assets/sprites/html.png" height="52" alt="html5" />&nbsp;&nbsp;&nbsp;
+<img src="assets/sprites/python.png" height="58" alt="python" />&nbsp;&nbsp;
+<img src="assets/sprites/js.png" height="58" alt="javascript" />&nbsp;&nbsp;
+<img src="assets/sprites/ts.png" height="58" alt="typescript" />&nbsp;&nbsp;
+<img src="assets/sprites/html.png" height="58" alt="html5" />&nbsp;&nbsp;&nbsp;
 <img src="assets/sprites/pc2.png" height="64" alt="pc" />
 
 <br/>
